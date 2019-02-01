@@ -12,27 +12,27 @@ import LecacyQrCodeReader from './components/QrCodeReader/LecacyQrCodeReader';
 
 import './App.css';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <Router>
-          <Fragment>
-            <header>
-              <Navigation />
-            </header>
-            <main>
-              <Switch>
-                <Route exact path="/qr-reader-pwa" component={QrCodeReader} />
-                <Route exact path="/qr-reader-pwa/legacy" component={LecacyQrCodeReader} />
-                <Redirect to="/qr-reader-pwa" />
-              </Switch>
-            </main>
-          </Fragment>
-        </Router>
-      </div>
-    );
-  }
-}
+const App = () => (
+  <div className="App">
+    <Router>
+      <Fragment>
+        <header>
+          <Navigation />
+        </header>
+        <main>
+          <Switch>
+            <Route exact path="/qr-reader-pwa" component={QrCodeReader} />
+            <Route
+              exact
+              path="/qr-reader-pwa/legacy"
+              component={LecacyQrCodeReader}
+            />
+            <Redirect to="/qr-reader-pwa" />
+          </Switch>
+        </main>
+      </Fragment>
+    </Router>
+  </div>
+);
 
 export default App;
