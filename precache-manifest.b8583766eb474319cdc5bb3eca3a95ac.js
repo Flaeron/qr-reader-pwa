@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/qr-reader-pwa/static/css/main.05558f37.chunk.css"
   },
   {
-    "revision": "a13d59351343b83306ce9f9b12b9a0b5",
+    "revision": "7ba189516b8672f717fb501969bbadc8",
     "url": "/qr-reader-pwa/index.html"
   }
 ];
