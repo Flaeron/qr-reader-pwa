@@ -23,9 +23,9 @@ class App extends Component {
             </header>
             <main>
               <Switch>
-                <Route exact path="/" component={QrCodeReader} />
-                <Route exact path="/legacy" component={LecacyQrCodeReader} />
-                <Redirect to="/" />
+                <Route exact path="/qr-reader-pwa" component={QrCodeReader} />
+                <Route exact path="/qr-reader-pwa/legacy" component={LecacyQrCodeReader} />
+                <Redirect to="/qr-reader-pwa" />
               </Switch>
             </main>
           </Fragment>

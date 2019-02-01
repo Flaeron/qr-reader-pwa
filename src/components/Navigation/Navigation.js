@@ -7,12 +7,12 @@ const Navigation = () => (
   <nav>
     <ul>
       <li>
-        <NavLink exact to="/">
+        <NavLink exact to="/qr-reader-pwa">
           Default
         </NavLink>
       </li>
       <li>
-        <NavLink exact to="/legacy">
+        <NavLink exact to="/qr-reader-pwa/legacy">
           Legacy
         </NavLink>
       </li>
