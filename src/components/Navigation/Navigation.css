@@ -1,0 +1,23 @@
+nav a {
+  color: #FFFFFF;
+}
+
+ul {
+  display: flex;
+  margin: 20px 0;
+  padding: 0;
+  list-style: none;
+}
+
+li:not(:first-child) {
+  margin-left: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.active {
+  color: #fd5e60;
+  text-decoration: underline;
+}

@@ -1,0 +1,26 @@
+.qr-reader-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.qr-reader {
+  width: 320px;
+}
+
+button {
+  color: #FFFFFF;
+  font-size: 17px;
+  border: 1px solid #FFFFFF;
+  background: transparent;
+  box-shadow: none;
+  margin: 20px 0;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  border-color: #fd5e60;
+}
