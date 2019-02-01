@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/qr-reader-pwa/static/js/runtime~main.08cde64b.js"
   },
   {
-    "revision": "83da49738687918e431b",
-    "url": "/qr-reader-pwa/static/js/main.83da4973.chunk.js"
+    "revision": "fc5fd16f7a8b084d8f0a",
+    "url": "/qr-reader-pwa/static/js/main.fc5fd16f.chunk.js"
   },
   {
     "revision": "ab632e6ab0b616c93d1b",
     "url": "/qr-reader-pwa/static/js/1.ab632e6a.chunk.js"
   },
   {
-    "revision": "83da49738687918e431b",
+    "revision": "fc5fd16f7a8b084d8f0a",
     "url": "/qr-reader-pwa/static/css/main.05558f37.chunk.css"
   },
   {
-    "revision": "1053cb0686d44902024045bbf7316033",
+    "revision": "06c006b1338ce703d05946ee812b011f",
     "url": "/qr-reader-pwa/index.html"
   }
 ];
