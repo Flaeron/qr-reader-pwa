@@ -5,8 +5,12 @@
   justify-content: center;
 }
 
-.qr-reader {
+.qr-reader, p {
   width: 320px;
+}
+
+p {
+  text-align: center;
 }
 
 button {
