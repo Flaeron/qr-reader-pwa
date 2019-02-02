@@ -1,13 +1,13 @@
 {
-  "main.css": "/qr-reader-pwa/static/css/main.725661a6.chunk.css",
-  "main.js": "/qr-reader-pwa/static/js/main.404f94e4.chunk.js",
-  "main.js.map": "/qr-reader-pwa/static/js/main.404f94e4.chunk.js.map",
+  "main.css": "/qr-reader-pwa/static/css/main.1fc7ccb5.chunk.css",
+  "main.js": "/qr-reader-pwa/static/js/main.52724e28.chunk.js",
+  "main.js.map": "/qr-reader-pwa/static/js/main.52724e28.chunk.js.map",
   "static/js/1.b296617e.chunk.js": "/qr-reader-pwa/static/js/1.b296617e.chunk.js",
   "static/js/1.b296617e.chunk.js.map": "/qr-reader-pwa/static/js/1.b296617e.chunk.js.map",
   "runtime~main.js": "/qr-reader-pwa/static/js/runtime~main.08cde64b.js",
   "runtime~main.js.map": "/qr-reader-pwa/static/js/runtime~main.08cde64b.js.map",
-  "static/css/main.725661a6.chunk.css.map": "/qr-reader-pwa/static/css/main.725661a6.chunk.css.map",
+  "static/css/main.1fc7ccb5.chunk.css.map": "/qr-reader-pwa/static/css/main.1fc7ccb5.chunk.css.map",
   "index.html": "/qr-reader-pwa/index.html",
-  "precache-manifest.7cdee094acf0b44a23907c0e34f4d850.js": "/qr-reader-pwa/precache-manifest.7cdee094acf0b44a23907c0e34f4d850.js",
+  "precache-manifest.160484029363693ec595a50f90e17a95.js": "/qr-reader-pwa/precache-manifest.160484029363693ec595a50f90e17a95.js",
   "service-worker.js": "/qr-reader-pwa/service-worker.js"
 }
